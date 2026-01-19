@@ -36,7 +36,7 @@
 ### 📫 Connect With Me
 - GitHub: [majidcloud-dev](https://github.com/majidcloud-dev)  
 - LinkedIn: [Your LinkedIn]  
-- Instagram/Twitter: [Your Socials]  
+- Instagram/Twitter: [l_majid_khan_l](https://www.instagram.com/l_majid_khan_l/)  
 
 ---
 
