@@ -1,19 +1,33 @@
-# My Python Practice
+# Hi 👋, I'm Majid
 
-👋 Hi, I'm Majid — a beginner Python developer learning step by step.
-
----
-
-## 📌 What this repo contains
-- Basic Python programs
-- Practice exercises
-- Learning experiments
+🎓 Student | 💻 Beginner Python Developer | 🚀 Learning Software Development
 
 ---
 
-## 🎯 Goal
-To improve my Python skills and build real-world projects.
+### 🌟 About Me
+- 🧠 Learning **Python** and building small projects
+- 📱 Coding on mobile, preparing for laptop coding
+- 🎯 Goal: Become a professional developer and make real-world apps
 
 ---
 
-✨ *Learning daily. Growing daily.*
+### 🛠️ Skills
+- Python (Beginner)
+- Problem Solving & Logic
+- Git & GitHub
+
+---
+
+### 📚 Currently Learning
+- Python fundamentals
+- Git & GitHub
+- Web development basics
+
+---
+
+### 📫 Connect With Me
+- GitHub: [majidcloud-dev](https://github.com/majidcloud-dev)
+
+---
+
+✨ *“Consistency beats motivation.”*
